@@ -1001,6 +1001,7 @@ body.ie ._ibg img {
   text-transform: uppercase;
   flex: 1 0 80px;
   padding: 16px;
+  color: #000;
 }
 .lot .info-contant-lot {
   display: flex;
